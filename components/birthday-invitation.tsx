@@ -246,7 +246,7 @@ export function BirthdayInvitation() {
             <CardContent className="p-8 text-center">
               <h3 className="text-2xl font-bold mb-4 text-primary">{"¡Confirma tu Asistencia!"}</h3>
               <p className="text-muted-foreground mb-6 text-balance">
-                {"Por favor confirma antes del 10 de Marzo para preparar todo perfectamente"}
+                {"Por favor confirma antes del 28 de Septiembre para preparar todo perfectamente"}
               </p>
 
               {!isRSVPed ? (
